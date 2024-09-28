@@ -3,12 +3,12 @@
 Description : Il s'agit d'un jeu simple "Chaud et Froid" basé sur Python où le but du joueur est de se rapprocher le plus possible du sprite rouge en moins de 15 coups. Le jeu devient progressivement plus difficile à chaque niveau.
 
 ## Comment jouer 
-Clonez ce dépôt sur votre machine locale.
-Exécutez le script Python 'menu_game.py'.
-Votre distance actuelle par rapport au sprite rouge est affichée à l'écran.
-Utilisez la souris pour déplacer votre curseur et vous rapprocher du sprite rouge.
-Essayez d'atteindre l'objectif en utilisant le moins de coups possible, avec un maximum de 15 coups par niveau.
-La difficulté du jeu augmente avec chaque niveau, alors soyez attentif !
+1. Clonez ce dépôt sur votre machine locale.
+2. Exécutez le script Python 'menu_game.py'.
+3. Votre distance actuelle par rapport au sprite rouge est affichée à l'écran.
+4. Utilisez la souris pour déplacer votre curseur et vous rapprocher du sprite rouge.
+5. Essayez d'atteindre l'objectif en utilisant le moins de coups possible, avec un maximum de 15 coups par niveau.
+6. La difficulté du jeu augmente avec chaque niveau, alors soyez attentif !
 
 # EN
 
