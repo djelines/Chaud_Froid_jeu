@@ -1,4 +1,4 @@
-# ❄️🔥 Chaud_Froid_jeu
+# ❄️🔥 Hot & Cold
 
 ## FR - Description
 Il s'agit d'un jeu simple "Chaud et Froid" basé sur Python, où le but du joueur est de se rapprocher le plus possible du sprite rouge en moins de 15 coups. Le jeu devient progressivement plus difficile à chaque niveau.
